@@ -6,139 +6,162 @@
 </head>
 <body>
 
-    <h1>Anemonia sulcata</h1>
+    <header>
+        <h1>Anemonia sulcata</h1>
+        <p>
+            <strong>Anemonia sulcata</strong> es una especie de cnidario antozoo de la familia <em>Actiniidae</em>.
+            En España recibe el nombre de <strong>anémona de mar común</strong> y en Andalucía es conocida como 
+            <strong>ortiguilla</strong> u <strong>ortiga de mar</strong>.
+        </p>
+    </header>
 
-    <p>
-        <strong>Anemonia sulcata</strong> es una especie de cnidario antozoo de la familia <em>Actiniidae</em>. 
-        En España recibe el nombre de <strong>anémona de mar común</strong> (como a la especie Anemonia viridis); 
-        en Andalucía la llaman <strong>ortiguilla</strong> u <strong>ortiga de mar</strong>. 
-        En España está admitida como una especie pesquera y de acuicultura.
-    </p>
+    <main>
 
-    <h2>Descripción</h2>
+        <section>
+            <h2>Descripción</h2>
 
-    <p>
-        Es un pequeño animal marino, con células urticarias para cazar pequeños peces y mariscos, 
-        que atrapa con los tentáculos que posee en la parte superior.
-    </p>
+            <article>
+                <p>
+                    Es un pequeño animal marino con células urticarias que utiliza para cazar pequeños peces y mariscos,
+                    atrapándolos con los tentáculos que posee en la parte superior.
+                </p>
 
-    <p>
-        De forma <em>cilíndrica</em>, tiene aproximadamente:
-    </p>
+                <p>
+                    Presenta una forma <em>cilíndrica</em> y mide aproximadamente:
+                </p>
 
-    <ul>
-        <li>6 cm de alto</li>
-        <li>3 cm de ancho</li>
-    </ul>
+                <ul>
+                    <li>6 cm de alto</li>
+                    <li>3 cm de ancho</li>
+                </ul>
 
-    <p>
-        Vive fijada por la base a rocas submarinas.
-    </p>
+                <p>
+                    Vive fijada por la base a rocas submarinas.
+                </p>
+            </article>
+        </section>
 
-    <h2>Distribución y hábitat</h2>
+        <section>
+            <h2>Distribución y hábitat</h2>
 
-    <p>
-        Es propia del <strong>mar Mediterráneo</strong> y del <strong>océano Atlántico</strong>, 
-        encontrándose en las costas rocosas.
-    </p>
+            <article>
+                <p>
+                    Es propia del <strong>mar Mediterráneo</strong> y del <strong>océano Atlántico</strong>,
+                    encontrándose principalmente en costas rocosas.
+                </p>
 
-    <p>
-        Es el actínido más frecuente en el Mediterráneo.
-    </p>
+                <p>
+                    Es el actínido más frecuente en el Mediterráneo.
+                </p>
 
-    <p>
-        <strong>Anemonia sulcata</strong> es una de las especies que de forma más sencilla podemos mantener 
-        en un acuario geográfico del mediterráneo o litoral.
-    </p>
+                <p>
+                    Esta especie puede mantenerse fácilmente en acuarios geográficos del litoral mediterráneo.
+                    Estos acuarios utilizan agua natural con:
+                </p>
 
-    <p>
-        Este tipo de acuario emplea agua natural con:
-    </p>
+                <ul>
+                    <li>Alto nivel de oxígeno</li>
+                    <li>Presencia de anhídrido carbónico</li>
+                </ul>
 
-    <ul>
-        <li>Alto nivel de oxígeno</li>
-        <li>Presencia de anhídrido carbónico</li>
-    </ul>
+                <p>
+                    El anhídrido carbónico es importante para invertebrados que poseen algas simbiontes llamadas 
+                    <em>zooxantelas</em>, que aportan nutrientes y su característica coloración verdosa o amarronada.
+                </p>
+            </article>
+        </section>
 
-    <p>
-        Este gas es importante para invertebrados que poseen algas simbiontes llamadas 
-        <em>zooxantelas</em>, que aportan nutrientes y dan su coloración verdosa o amarronada.
-    </p>
+        <section>
+            <h2>Comportamiento</h2>
 
-    <h2>Comportamiento</h2>
+            <article>
+                <p>
+                    Es una especie <strong>ovípara</strong>, con separación de sexos.
+                </p>
 
-    <p>
-        Es una especie <strong>ovípara</strong>, con separación de sexos.
-    </p>
+                <p>
+                    Se asocia ocasionalmente con otras especies:
+                </p>
 
-    <p>
-        Se encuentra asociada ocasionalmente con:
-    </p>
+                <ul>
+                    <li><em>Maia verrucosa</em> (cámbara)</li>
+                    <li><em>Gobius bucchichi</em> (rasposo)</li>
+                    <li><em>Leptomysis mediterranea</em></li>
+                </ul>
+            </article>
+        </section>
 
-    <ul>
-        <li><em>Maia verrucosa</em> (cámbara)</li>
-        <li><em>Gobius bucchichi</em> (rasposo)</li>
-        <li><em>Leptomysis mediterranea</em></li>
-    </ul>
+        <section>
+            <h2>Gastronomía</h2>
 
-    <h2>Gastronomía</h2>
+            <article>
+                <p>
+                    En el mar tiene un aspecto vistoso, pero fuera del agua presenta tonos oxidados y en crudo
+                    no resulta agradable.
+                </p>
 
-    <p>
-        En el mar tienen un aspecto vistoso, pero fuera del agua presentan tonos oxidados 
-        y en crudo no resultan agradables.
-    </p>
+                <p>
+                    Se consume en zonas costeras como:
+                </p>
 
-    <p>
-        Se consumen en algunas zonas costeras como:
-    </p>
+                <ul>
+                    <li>Provincia de Cádiz</li>
+                    <li>Delta del Ebro</li>
+                    <li>Menorca</li>
+                </ul>
 
-    <ul>
-        <li>Provincia de Cádiz</li>
-        <li>Delta del Ebro</li>
-        <li>Menorca</li>
-    </ul>
+                <p>
+                    Forma parte del recetario menorquín, como en el libro 
+                    <cite>“Art de la Cuina”</cite> del siglo XVIII.
+                </p>
 
-    <p>
-        Forman parte del recetario menorquín, como en el libro 
-        <cite>“Art de la Cuina”</cite> del siglo XVIII.
-    </p>
+                <h3>Preparación</h3>
 
-    <h3>Preparación</h3>
+                <ol>
+                    <li>Se enjuagan bien</li>
+                    <li>Se rebozan en harina</li>
+                    <li>Se fríen en aceite de oliva</li>
+                </ol>
 
-    <ol>
-        <li>Se enjuagan bien</li>
-        <li>Se rebozan en harina</li>
-        <li>Se fríen en aceite de oliva</li>
-    </ol>
+                <p>
+                    Si son pequeñas se cocinan enteras; si son grandes, se trocean.
+                    También pueden prepararse en arroz.
+                </p>
 
-    <p>
-        Si son pequeñas se cocinan enteras; si son grandes, se trocean. 
-        También pueden prepararse en arroz.
-    </p>
+                <blockquote>
+                    Debido a su capacidad urticante, suelen marinarse con vinagre y al freírlas pierden esta propiedad.
+                </blockquote>
 
-    <p>
-        Es un plato difícil de encontrar fuera de zonas costeras debido a su baja conservación.
-        Suele servirse como tapa y a veces acompañado de pescaíto frito.
-    </p>
+                <p>
+                    Es un plato difícil de encontrar fuera de zonas costeras debido a su baja conservación.
+                    Suele servirse como tapa y acompañarse con pescaíto frito.
+                </p>
 
-    <p>
-        En Italia se marinan en aceite de oliva antes de freírlas hasta quedar doradas. 
-        Su aroma es intensamente marino.
-    </p>
+                <p>
+                    En Italia se marinan en aceite de oliva antes de freírlas hasta quedar doradas.
+                    Su aroma es intensamente marino.
+                </p>
+            </article>
 
-    <h2>Imagen</h2>
+        <img src="Music/anemonia.jpg" alt="Anemonia sulcata"
+                 title="Anémona de mar común"
+                 width="300">
+    
+                
+        </section>
 
-    <img src="Music/anemonia.jpg" 
-         alt="Anemonia sulcata" width="300">
+        <section>
+            <h2>Fuente</h2>
 
-    <h2>Fuente</h2>
+            <p>
+                Más información en 
+                <a href="https://es.wikipedia.org/wiki/Anemonia_sulcata" target="_blank">
+                    Wikipedia - Anemonia sulcata
+                </a>
+            </p>
+        </section>
 
-    <p>
-        Artículo original:
-        <a href="https://es.wikipedia.org/wiki/Anemonia_sulcata" target="_blank">
-            Ver en Wikipedia
-        </a>
-    </p>
+    </main>
 
 </body>
 </html>
